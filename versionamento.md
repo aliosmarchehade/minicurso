@@ -1,0 +1,1 @@
+Versionamento é uma estratégia para gerenciar as versões de um código, <br> sistema ou modelo, registrando as alterações realizadas e garantindo a **segurança** na transição entre versões
