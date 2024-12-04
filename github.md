@@ -1,0 +1,1 @@
+Github é uma plataforma de hospedagem de códigos para desenvolvedores, que se integra com o git.
