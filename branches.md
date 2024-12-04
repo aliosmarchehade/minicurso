@@ -1,0 +1,1 @@
+Um branch no Git é um ponteiro móvel para um dos commits. É utilizada para que você possa criar códigos sem se preocupar em afetar os demais.
